@@ -1,0 +1,39 @@
+Parts' state:
+	Colliding with obstacles cause damage to ship's parts.
+	You can repair them after flight. It's better to do it as quickly
+	as it's possible, because destroyed parts got some bad effects:
+	Cabin:
+		Game Over
+	One engine:
+		Higher fuel usage
+	Both engines:
+		Game Over
+	Gun:
+		Doesn't shoot
+Repairing:
+	You can repair damaged parts of your ship in "Repairs" screen.
+	There are two ways of repairing your ship:
+	DIY:
+		You don't have to pay, but repaired part will have 20-30 hp.
+	Profesional:
+		You have to pay, but repaired part will have 100 hp.
+Upgrades:
+	You can upgrade parts of your ship. The higher level of part 
+	the smaller damage it takes from obstacles.	
+Fuel:
+	Your ship is using fuel. You got full tank of fuel on the beginning.
+	During the flight it's amount is decreasing. 
+	You can refill it flying over the fuel stations.
+	Watch out for craters, because flying over craters cost you much fuel.
+Shooting:
+	Your ship has got two laser guns. Use them to destroy obstacles and make yourself clear passage.
+
+	
+Steering:	
+	Arrows(left and right) - move your ship
+	Space - shoot
+	ESC - pause
+	
+PS.
+	Sorry for my bad English
+	
